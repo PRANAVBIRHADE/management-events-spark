@@ -53,3 +53,4 @@ Tips:
 - Cookies-based auth with middleware guards is enabled
 - Rate limiting (60 req/min/IP) applies to `/api/*`
 - Email sending: Resend (primary) with Nodemailer fallback
+\n
